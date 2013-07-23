@@ -152,7 +152,7 @@ liblapack-dev:
 libmysqlclient-dev:
   osx:
     homebrew:
-      packages: [mariadb]
+      packages: [mysql]
 libogg:
   osx:
     homebrew:
