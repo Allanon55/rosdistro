@@ -1093,7 +1093,7 @@ libusb-1.0-dev:
   fedora:
     beefy: [libusb1-devel]
     spherical: [libusbx-devel]
-    schr\u{feff00f6}dinger’s: [libusb-devel]
+    schrödinger’s: [libusb-devel]
   ubuntu: [libusb-1.0-0-dev]
 libusb-dev:
   arch: [libusb-compat]
