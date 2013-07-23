@@ -802,7 +802,7 @@ libmp3lame-dev:
   ubuntu: [libmp3lame-dev]
 libmysqlclient-dev:
   debian: [libmysqlclient-dev]
-  fedora: [mysql]
+  fedora: [mariadb]
   ubuntu: [libmysqlclient-dev]
 libncurses-dev:
   debian: [libncurses5-dev]
